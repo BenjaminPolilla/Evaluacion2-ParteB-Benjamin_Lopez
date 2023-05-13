@@ -45,3 +45,4 @@ while True:
    else:
         print("************************************************************************")
         print("For Staus Code: " + str(json_estado) + "; Refer to:")
+# Evaluacion2-ParteB-Benjamin_Lopez
